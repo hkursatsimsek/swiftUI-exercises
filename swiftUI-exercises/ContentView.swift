@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+// Ekrandan girilen sayıyı 1.18 le çarpıp ekrana yaz
 
     @State var result: Float = 0
     @State var number: String = ""
