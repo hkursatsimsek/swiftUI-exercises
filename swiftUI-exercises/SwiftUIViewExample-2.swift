@@ -9,6 +9,7 @@ import SwiftUI
 
 struct SwiftUIViewExample_2: View {
 //    Ekrandan girilen iki sayıyı toplayıp ekrana yaz
+
     @State var number1: String = ""
     @State var number2: String = ""
     @State var result: Int = 0
